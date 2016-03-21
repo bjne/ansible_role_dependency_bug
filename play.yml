@@ -1,0 +1,4 @@
+- hosts: localhost
+  roles:
+  - level3_1
+  - level3_2

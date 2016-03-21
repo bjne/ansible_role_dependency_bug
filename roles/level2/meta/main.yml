@@ -1,0 +1,5 @@
+---
+allow_duplicates: true
+dependencies:
+  - { role: level1, module: "{{ input_module }}" }
+

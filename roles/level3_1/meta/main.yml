@@ -1,0 +1,3 @@
+---
+dependencies:
+  - { role: level2, input_module: "{{ this_module }}" }
